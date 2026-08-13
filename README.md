@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [PredictionMarketsPicks](https://predictionmarketspicks.com/polymarket-analysis) - Independent Polymarket and Kalshi analysis with free quant tools (expected value, Kelly sizing, probability conversion), a daily Bayesian mispricing scan, and a cross-platform Polymarket/Kalshi price-gap scanner. Publishes a settled, graded per-tool track record with win rate, per-contract P/L and Brier scores, losing models included
 
 ## Trading Bots & Automation
 
@@ -128,6 +129,7 @@ Polymarket is a decentralized information markets platform where users can trade
 ### AI Agent Integrations (MCP)
 
 - [Sim.ai - Polymarket](https://sim.ai/mcp/polymarket) - MCP integration for AI agents with market listing, price data, and order book access
+- [PredictionMarketsPicks MCP](https://predictionmarketspicks.com/mcp) - Remote Streamable HTTP MCP server exposing 23 quant tools to AI agents: expected value, Kelly sizing, Bayesian updating, probability conversion, cross-platform arbitrage scanning and macro market pulse across Polymarket and Kalshi. Free tier requires no key. Listed on the official MCP registry as `com.predictionmarketspicks/quant`
 
 ### API Marketplaces
 
